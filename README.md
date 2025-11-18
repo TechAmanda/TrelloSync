@@ -1,2 +1,2 @@
 # TrelloSync
-This code will automatically update the Airtable cards.
+Sync Trello cards to Airtable automatically
